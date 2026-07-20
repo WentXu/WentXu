@@ -127,11 +127,6 @@ The durable lessons get written down; the code stays private.
 
 <br/>
 
-<!-- SNAKE ANIMATION — enable in two steps:
-     1. Run:  gh auth refresh -s workflow
-     2. Ask Claude to push .github/workflows/snake.yml (saved locally), or create it
-        yourself on github.com; then uncomment the block below.
-
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -144,7 +139,6 @@ The durable lessons get written down; the code stays private.
 
 </div>
 
--->
 
 <br/>
 
